@@ -155,6 +155,9 @@ input[placeholder], textarea[placeholder] {
   font-weight: 700;
   line-height: 140%;
   cursor: url(/src/img/pointing.svg), pointer;
+  &:hover{
+    background-color: $blueHover;
+  }
 }
 
 .container {
@@ -631,6 +634,9 @@ input[placeholder], textarea[placeholder] {
     @media only screen and (max-width: 767px) {
       margin-left: 0;
       width: 100%;
+    }
+    &:hover{
+      background-color: $black;
     }
   }
 
