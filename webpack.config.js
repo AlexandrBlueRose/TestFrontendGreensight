@@ -42,7 +42,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             title: 'List of vacancies',
             filename: 'index.html',
-            template: './TestFrontendGreensight/src/index.html'
+            template: './src/index.html'
         })
     ]
 }
