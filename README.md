@@ -18,7 +18,8 @@ API
 ## Установка и запуск
 Для запуска:
 ````
-(npm install -D webpack-dev-server если не установлен)
+(npm install)
+
 webpack serve
 
 ````
