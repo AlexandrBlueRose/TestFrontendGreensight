@@ -1,0 +1,58 @@
+//<ШРИФТЫ>================================================================
+
+//Подключение шрифтов
+@import url(https://fonts.googleapis.com/css?family=Roboto:regular,500,700&display=swap);
+
+//Шрифт по умолчанию
+$fontFamily: "Roboto";
+
+//Размеры шрифта
+$fontSizeL: 18px;
+$fontSizeM: 16px;
+$fontSizeS: 14px;
+$fontSizeXS: 12px;
+$button: 15px;
+
+$h1: 48px;
+$h1m: 34px;
+$h2: 34px;
+$h2m: 28px;
+$h3: 28px;
+$h3m: 24px;
+$h4: 24px;
+$h4m: 20px;
+
+//</ШРИФТЫ>================================================================
+
+//Основные цвета
+$baseColor: #fff;
+$black: #131313;
+$grey900: #383838;
+$grey800: #787F85;
+$grey700: #959DA3;
+$grey600: #ACB3B9;
+$grey500: #C1C6CB;
+$grey400: #CDD2D7;
+$grey300: #DADEE2;
+$grey200: #EEF0F4;
+$grey100: #F7F9FB;
+$blue: #0D7AD9;
+$lightBlue: #A6CEF1;
+$blueHover: #175098;
+
+//Тень
+$Box: 0px 0px 24px 0px rgba(38, 41, 43, 0.15);
+$BoxLight: 0px 0px 16px 0px rgba(30, 30, 30, 0.10);
+
+
+//<ПЕРЕМЕННЫЕ>================================================================
+
+$minWidth: 320px;
+
+//Ширина макета
+$maxWidth: 1920px;
+
+//Ширина ограничивающего контейнера справа
+$maxWidthContainer: 1360px;
+
+//</ПЕРЕМЕННЫЕ>================================================================
