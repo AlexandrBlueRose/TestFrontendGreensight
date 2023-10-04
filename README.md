@@ -20,7 +20,7 @@ API
 ## Установка и запуск
 Для запуска:
 ````
-(npm install)
+npm install
 
 webpack serve
 
